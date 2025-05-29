@@ -6,7 +6,7 @@ A modern and responsive **Tic-Tac-Toe** game built using **HTML**, **CSS**, and 
 ✅ **VS CPU Mode** – Play against the computer (random AI)  
 ✅ **Stylish UI** – Clean design with animations and hover effects  
 ✅ **Winning Line Animation** – Highlights winning moves with a line  
-
+![Tic Tac Toe game Screenshot](assets/tic_tactoe.png)
 ---
 
 ## 🚀 **Features**
